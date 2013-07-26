@@ -457,9 +457,6 @@
 	
 	if (_rootViewController == nil) {
 		NSMutableArray *fsViewCtrls = [[NSMutableArray alloc] init];
-		
-		
-		
 		_rootViewController = [[FSTabBarViewCotnroller alloc] init];
 		//1.
 		FSOneDayNewsViewController *oneDayNewsCtrl = [[FSOneDayNewsViewController alloc] init];
