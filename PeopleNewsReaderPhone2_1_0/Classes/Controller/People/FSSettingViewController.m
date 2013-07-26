@@ -10,7 +10,7 @@
 #import "FSMyFavoritesViewController.h"
 #import "FSUINavigationController.h"
 #import "FSSlideViewController.h"
-
+#import "FSLocalWeatherViewController.h"
 #import "FSCheckAppStoreVersionObject.h"
 
 #import "FS_GZF_AppUpdateDAO.h"
@@ -84,7 +84,14 @@
 
     
 }
-
+- (void)weatherNewsViewButtonClick
+{
+    FSLocalWeatherViewController *weatherCtrl = [[FSLocalWeatherViewController alloc] init];
+    NSLog(@"%@",self.navigationController);
+    //[self.parentViewController.navigationController pushViewController:weatherCtrl animated:YES];
+    [[UIApplication sharedApplication].keyWindow addSubview:weatherCtrl.view];
+    //[weatherCtrl release];
+}
 #pragma mark - FSNewSettingViewDelegate
 //***************************************
 //by QIN,Zhuoran

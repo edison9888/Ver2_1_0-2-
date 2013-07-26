@@ -14,8 +14,8 @@
 
 #import "FSWeatherObject.h"
 
-#define CITYNAME_FRONT_SIZE 9.0f
-#define TEMPERATURE_FRONT_SIZE 12.0f
+#define CITYNAME_FRONT_SIZE 18.0f
+#define TEMPERATURE_FRONT_SIZE 35.0f
 
 
 @implementation FSWeatherView
@@ -56,15 +56,16 @@
     }
     [self setContent];
     _image_WeatherIcon.frame = CGRectMake(0, 4, self.frame.size.height-8, self.frame.size.height-8);
-    _lab_Temperature.frame = CGRectMake(self.frame.size.height-8, self.frame.size.height/2, self.frame.size.width-self.frame.size.height+8, self.frame.size.height/2-10);
-    _lab_CityName.frame = CGRectMake(self.frame.size.height-8, 10, self.frame.size.width-self.frame.size.height+8, self.frame.size.height/2-10);
+    
+    _lab_CityName.frame = CGRectMake(self.frame.size.height, 10, self.frame.size.width-self.frame.size.height + 16, self.frame.size.height/2-10);
+    _lab_Temperature.frame = CGRectMake(self.frame.size.height, self.frame.size.height/2 - 8, self.frame.size.width-self.frame.size.height+8, self.frame.size.height/2-10);
 }
 
 
 -(void)initializationVariable{
     _lab_CityName.backgroundColor = COLOR_CLEAR;
     //_lab_CityName.textColor = COLOR_NEWSLIST_CHANNEL_TITLE;
-    _lab_CityName.textColor   = [UIColor blackColor];
+    _lab_CityName.textColor   = [UIColor darkGrayColor];
     _lab_CityName.textAlignment = UITextAlignmentLeft;
     _lab_CityName.numberOfLines = 1;
     _lab_CityName.font = [UIFont systemFontOfSize:CITYNAME_FRONT_SIZE];
@@ -91,17 +92,17 @@
     NSString *defaultDBPath;
     
     if (h>6 && h<18) {
-        defaultDBPath = o.day_mini_icon;
+        defaultDBPath = o.day_icon;
     }
     else{
-        defaultDBPath = o.night_mini_icon;
+        defaultDBPath = o.night_icon;
     }
     //NSLog(@"defaultDBPath%@",defaultDBPath);
     if (o.day_tp == nil || o.night_tp == nil) {
        _lab_Temperature.text = [NSString stringWithFormat:@""];
     }
     else{
-        _lab_Temperature.text = [NSString stringWithFormat:@"%@/%@",o.day_tp,o.night_tp];
+        _lab_Temperature.text = [NSString stringWithFormat:@"%@",o.day_tp];
     }
     
     _lab_CityName.text = o.cityname;

@@ -30,4 +30,8 @@
 @dynamic day_mini_icon;
 @dynamic night_mini_icon;
 
+//-(NSString *)description
+//{
+//    return [NSString stringWithFormat:@"%@ %@ %@ %@ %@ %@ "]
+//}
 @end

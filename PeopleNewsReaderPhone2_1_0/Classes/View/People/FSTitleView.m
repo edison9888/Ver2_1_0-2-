@@ -65,7 +65,7 @@
 
 -(void)initVariable{
     _lab_CityName.backgroundColor = COLOR_CLEAR;
-    _lab_CityName.textColor = COLOR_NEWSLIST_CHANNEL_TITLE;
+    //_lab_CityName.textColor = COLOR_NEWSLIST_CHANNEL_TITLE;
     _lab_CityName.textAlignment = UITextAlignmentRight;
     _lab_CityName.numberOfLines = 1;
     _lab_CityName.font = [UIFont systemFontOfSize:CITYNAME_FRONT_SIZE];

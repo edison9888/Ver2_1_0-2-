@@ -27,9 +27,16 @@
     weatcherBt.frame = CGRectMake(0, 0, 320, 100);
     [weatcherBt addSubview:_fsWeatherView];
     [weatcherBt addTarget:self action:@selector(weatherNewsAction:) forControlEvents:UIControlEventTouchUpInside];
-    [weatcherBt addTarget:self action:@selector(weatherNewsActionLock:) forControlEvents:UIControlEventTouchDown];
+    //[weatcherBt addTarget:self action:@selector(weatherNewsActionLock:) forControlEvents:UIControlEventTouchDown];
     [self addSubview:weatcherBt];
     
+}
+-(void)weatherNewsAction:(UIButton*)sender
+{
+    NSLog(@"%@",self.delegate);
+     if ([self.delegate respondsToSelector:@selector(weatherNewsViewButtonClick)]) {
+        [self.delegate weatherNewsViewButtonClick];
+     }
 }
 -(void)updataWeatherStatus{
     NSArray *array = [[FSBaseDB sharedFSBaseDB] getObjectsByKeyWithName:@"FSWeatherObject" key:@"group" value:@""];

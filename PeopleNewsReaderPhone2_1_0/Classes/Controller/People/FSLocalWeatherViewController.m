@@ -56,7 +56,7 @@
     _fsLocalWeatherMessageView.parentDelegate = self;
     [self.view addSubview:_fsLocalWeatherMessageView];
     
-    _titleView = [[FSTitleView alloc] initWithFrame:CGRectMake(0, 0, self.view.frame.size.width-44, 44)];
+    _titleView = [[FSTitleView alloc] initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 44)];
     _titleView.hidRefreshBt = YES;
     _titleView.toBottom = NO;
     _titleView.parentDelegate = self;

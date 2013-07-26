@@ -45,23 +45,23 @@
     
     [loadingView release];
 }
--(void)addWeatherView
-{
-    _fsWeatherView = [[FSWeatherView alloc] init];
-    _fsWeatherView.frame = CGRectMake(0, 0, 96, 44);
-    _fsWeatherView.userInteractionEnabled = NO;
-    _fsWeatherView.multipleTouchEnabled = NO;
-    UIButton *weatcherBt = [[UIButton alloc] init];
-    weatcherBt.frame = CGRectMake(0, 0, 50, 44);
-    [weatcherBt addSubview:_fsWeatherView];
-    [weatcherBt addTarget:self action:@selector(weatherNewsAction:) forControlEvents:UIControlEventTouchUpInside];
-    [weatcherBt addTarget:self action:@selector(weatherNewsActionLock:) forControlEvents:UIControlEventTouchDown];
-    UIBarButtonItem *weatcherBarItem = [[UIBarButtonItem alloc] initWithCustomView:weatcherBt];
-    self.navigationItem.leftBarButtonItem = weatcherBarItem;
-    [_fsWeatherView release];
-    [weatcherBt release];
-    [weatcherBarItem release];
-}
+//-(void)addWeatherView
+//{
+//    _fsWeatherView = [[FSWeatherView alloc] init];
+//    _fsWeatherView.frame = CGRectMake(0, 0, 96, 44);
+//    _fsWeatherView.userInteractionEnabled = NO;
+//    _fsWeatherView.multipleTouchEnabled = NO;
+//    UIButton *weatcherBt = [[UIButton alloc] init];
+//    weatcherBt.frame = CGRectMake(0, 0, 50, 44);
+//    [weatcherBt addSubview:_fsWeatherView];
+//    [weatcherBt addTarget:self action:@selector(weatherNewsAction:) forControlEvents:UIControlEventTouchUpInside];
+//    [weatcherBt addTarget:self action:@selector(weatherNewsActionLock:) forControlEvents:UIControlEventTouchDown];
+//    UIBarButtonItem *weatcherBarItem = [[UIBarButtonItem alloc] initWithCustomView:weatcherBt];
+//    self.navigationItem.leftBarButtonItem = weatcherBarItem;
+//    [_fsWeatherView release];
+//    [weatcherBt release];
+//    [weatcherBarItem release];
+//}
 -(void)addLeftButtonItem
 {
     UIBarButtonItem * leftbutton = [[UIBarButtonItem alloc]initWithImage:[UIImage imageNamed:@"peopleLogo.png"] style:UIBarButtonItemStylePlain target:self action:@selector(showLoadingView)];
@@ -107,34 +107,34 @@
 
 #pragma mark -
 #pragma mark PrivateMethod
-- (void)weatherNewsAction:(id)sender {
-    
-    if (_left_lock) {
-        _right_lock = NO;
-        return;
-    }
-    
-	//[self.fsSlideViewController pushViewControllerWithKind:PushViewControllerKind_Left withAnimated:YES];
-//	FSWeatherViewController *weatherCtrl = [[FSWeatherViewController alloc] init];
-//	[self.fsSlideViewController slideViewController:weatherCtrl withKind:PushViewControllerKind_Left withAnimation:YES];
-//	[weatherCtrl release];
-    
-    
-    if ([self.fsSlideViewController.leftViewController isKindOfClass:[FSLocalWeatherViewController class]]) {
-        [self.fsSlideViewController slideViewController:self.fsSlideViewController.leftViewController withKind:PushViewControllerKind_Left withAnimation:YES];
-    }
-    else{
-        FSLocalWeatherViewController *weatherCtrl = [[FSLocalWeatherViewController alloc] init];
-        [self.fsSlideViewController slideViewController:weatherCtrl withKind:PushViewControllerKind_Left withAnimation:YES];
-        [weatherCtrl release];
-    }
-    
-    _right_lock = NO;
-}
-
-- (void)weatherNewsActionLock:(id)sender{
-    _right_lock = YES;
-}
+//- (void)weatherNewsAction:(id)sender {
+//    
+//    if (_left_lock) {
+//        _right_lock = NO;
+//        return;
+//    }
+//    
+//	//[self.fsSlideViewController pushViewControllerWithKind:PushViewControllerKind_Left withAnimated:YES];
+////	FSWeatherViewController *weatherCtrl = [[FSWeatherViewController alloc] init];
+////	[self.fsSlideViewController slideViewController:weatherCtrl withKind:PushViewControllerKind_Left withAnimation:YES];
+////	[weatherCtrl release];
+//    
+//    
+//    if ([self.fsSlideViewController.leftViewController isKindOfClass:[FSLocalWeatherViewController class]]) {
+//        [self.fsSlideViewController slideViewController:self.fsSlideViewController.leftViewController withKind:PushViewControllerKind_Left withAnimation:YES];
+//    }
+//    else{
+//        FSLocalWeatherViewController *weatherCtrl = [[FSLocalWeatherViewController alloc] init];
+//        [self.fsSlideViewController slideViewController:weatherCtrl withKind:PushViewControllerKind_Left withAnimation:YES];
+//        [weatherCtrl release];
+//    }
+//    
+//    _right_lock = NO;
+//}
+//
+//- (void)weatherNewsActionLock:(id)sender{
+//    _right_lock = YES;
+//}
 
 - (void)settingAction:(id)sender {
     NSLog(@"settingAction");
