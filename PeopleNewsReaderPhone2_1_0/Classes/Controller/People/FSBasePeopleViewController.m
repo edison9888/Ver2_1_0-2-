@@ -92,6 +92,8 @@
 	UIImageView *ivLogo = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"peopleLogo.png"]];
 	self.navigationItem.titleView = ivLogo;
 	[ivLogo release];
+    
+    
 	[self addLeftButtonItem];
     [self addRightButtonItem];
    

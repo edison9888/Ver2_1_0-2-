@@ -411,7 +411,6 @@
 		4CC14F7B16461E290007143D /* FSDeepContent_TextObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CC14F7A16461E290007143D /* FSDeepContent_TextObject.m */; };
 		4CC14F7E16461E2A0007143D /* FSDeepContent_PicObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CC14F7D16461E2A0007143D /* FSDeepContent_PicObject.m */; };
 		5850C1D4179D24720024218B /* PeopleNewsReaderPhone.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5850C1D2179D24720024218B /* PeopleNewsReaderPhone.xcdatamodeld */; };
-		5893DB85179F8E6600068319 /* LygCustomerNaviBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 5893DB84179F8E6000068319 /* LygCustomerNaviBar.m */; };
 		5893DB90179FD01C00068319 /* navigatorBar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5893DB8E179FD01400068319 /* navigatorBar.png */; };
 		5893DB91179FD01C00068319 /* navigatorBar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5893DB8F179FD01800068319 /* navigatorBar@2x.png */; };
 		5893DB93179FDBCC00068319 /* 翻页.png in Resources */ = {isa = PBXBuildFile; fileRef = 5893DB92179FDB9300068319 /* 翻页.png */; };
@@ -1256,8 +1255,6 @@
 		4CC14F7C16461E2A0007143D /* FSDeepContent_PicObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FSDeepContent_PicObject.h; path = Classes/Objects/FSDeepContent_PicObject.h; sourceTree = "<group>"; };
 		4CC14F7D16461E2A0007143D /* FSDeepContent_PicObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FSDeepContent_PicObject.m; path = Classes/Objects/FSDeepContent_PicObject.m; sourceTree = "<group>"; };
 		5850C1D3179D24720024218B /* PeopleNewsReaderPhone.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PeopleNewsReaderPhone.xcdatamodel; sourceTree = "<group>"; };
-		5893DB83179F8E5E00068319 /* LygCustomerNaviBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LygCustomerNaviBar.h; sourceTree = "<group>"; };
-		5893DB84179F8E6000068319 /* LygCustomerNaviBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LygCustomerNaviBar.m; sourceTree = "<group>"; };
 		5893DB8E179FD01400068319 /* navigatorBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navigatorBar.png; sourceTree = "<group>"; };
 		5893DB8F179FD01800068319 /* navigatorBar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navigatorBar@2x.png"; sourceTree = "<group>"; };
 		5893DB92179FDB9300068319 /* 翻页.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "翻页.png"; sourceTree = "<group>"; };
@@ -2994,8 +2991,6 @@
 				82DF94C51642637C0076B827 /* FSControllerLayoutObject.m */,
 				82DF94C716426AB90076B827 /* FSDAOCallbackViewObject.h */,
 				82DF94C816426AB90076B827 /* FSDAOCallbackViewObject.m */,
-				5893DB83179F8E5E00068319 /* LygCustomerNaviBar.h */,
-				5893DB84179F8E6000068319 /* LygCustomerNaviBar.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -4061,7 +4056,6 @@
 				04AB6A661716532400BAA213 /* FSTopicObject.m in Sources */,
 				7325E15B173B766F007D8224 /* FSSettingWithSwtichButtonCell.m in Sources */,
 				5850C1D4179D24720024218B /* PeopleNewsReaderPhone.xcdatamodeld in Sources */,
-				5893DB85179F8E6600068319 /* LygCustomerNaviBar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

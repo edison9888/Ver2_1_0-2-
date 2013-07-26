@@ -7,7 +7,6 @@
 //
 
 #import "PeopleNewsReaderPhoneAppDelegate.h"
-#import "LygCustomerNaviBar.h"
 #import "FSNewsContainerViewController.h"
 
 #import "FSTabBarViewCotnroller.h"
@@ -464,8 +463,7 @@
 		_rootViewController = [[FSTabBarViewCotnroller alloc] init];
 		//1.
 		FSOneDayNewsViewController *oneDayNewsCtrl = [[FSOneDayNewsViewController alloc] init];
-		//FSUINavigationController *navOneDayNewsCtrl = [[FSUINavigationController alloc] initWithRootViewController:oneDayNewsCtrl];
-        FSUINavigationController *navOneDayNewsCtrl = [[FSUINavigationController alloc] initWithNavigationBarClass:[LygCustomerNaviBar class] toolbarClass:nil];
+		FSUINavigationController *navOneDayNewsCtrl = [[FSUINavigationController alloc] initWithRootViewController:oneDayNewsCtrl];
         //[navOneDayNewsCtrl];
         [navOneDayNewsCtrl setViewControllers:[NSArray arrayWithObject:oneDayNewsCtrl]];
 		[fsViewCtrls addObject:navOneDayNewsCtrl];
