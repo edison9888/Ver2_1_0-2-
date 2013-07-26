@@ -1,0 +1,10 @@
+
+
+<html><head><link href='content_comment.css' rel='stylesheet' type='text/css' /></head><body>
+    
+<div id="comment">{{commentList}}</div>
+    
+<script type="text/javascript">
+function extend_image(url){location.href="image://"+url}
+</script>
+</body></html>

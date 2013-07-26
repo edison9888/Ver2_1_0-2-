@@ -1,0 +1,58 @@
+//
+//  Localizable.strings
+//  PeopleNewsReaderPhone
+//
+//  Created by people.com.cn on 12-8-8.
+//  Copyright 2012 people.com.cn. All rights reserved.
+//
+"DemoTitle"="This is English Version";
+/*新浪微博*/
+
+"发送" = "Send";
+
+"关闭" = "Cancel";
+
+"新浪微博" = "Sina Weibo";
+
+"确定" = "OK";
+
+"请输入微博内容" = "Please input here";
+
+"取消" = "Cancel";
+
+"登录" = "Log In";
+
+"用户名" = "Username";
+
+"密码" = "Password";
+
+"完成" = "OK";
+
+/////////////////////////////////////////
+/*数据访问状态*/
+
+"DAOCallBack_Working"="正在努力加载...";
+
+"DAOCallBack_HostError"="休息一下，稍后再试";
+
+"DAOCallBack_NetworkError"="网络不给力，再试一下哦";
+
+"DAOCallBack_NetworkErrorAndNoBuffer"="网络不给力，再试一下哦";
+
+"DAOCallBack_NetworkErrorAndDataIsTailStatus"="网络不给力，再试一下哦";
+
+"DAOCallBack_DataFormatError"="网络不给力，再试一下哦";
+
+"DAOCallBack_URLError"="休息一下，稍后再试";
+
+"DAOCallBack_UnknowError"="休息一下，稍后再试";
+
+"DAOCallBack_POSTDataZeroError"="提交数据不存在哦";
+
+"FSBaseDAOCallBack_OFFlineReadStatus"="正在离线阅读";
+
+//******************************************
+"网友评论"="网友评论";
+"返回"="Return";
+"查看全部评论"="查看全部评论";
+"我的收藏" = "MyFaverate";

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mobile/!svn/ver/11798/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View
+END
+FSTabBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTabBar.m
+END
+FSContentWebView.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSContentWebView.h
+END
+FSHorizontalScrollPageContainerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSHorizontalScrollPageContainerView.h
+END
+FSContentWebView.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSContentWebView.m
+END
+FSHorizontalScrollPageContainerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSHorizontalScrollPageContainerView.m
+END
+FSTabBarItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTabBarItem.h
+END
+FSTabBarItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTabBarItem.m
+END
+FSTableViewExCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableViewExCell.h
+END
+FSTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableView.h
+END
+FSTableViewExCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableViewExCell.m
+END
+FSScrollPageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSScrollPageView.h
+END
+FSTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableView.m
+END
+FSScrollPageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSScrollPageView.m
+END
+FSTableAssistantIIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableAssistantIIView.h
+END
+FSTableAssistantIIView.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableAssistantIIView.m
+END
+FSPageControlView.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSPageControlView.h
+END
+FSTableViewExView.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableViewExView.h
+END
+FSAsyncImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSAsyncImageView.h
+END
+FSTableAssistantView.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableAssistantView.h
+END
+FSIndicatorMessageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSIndicatorMessageView.h
+END
+FSPageControlView.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSPageControlView.m
+END
+FSTableViewExView.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableViewExView.m
+END
+FSAsyncImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSAsyncImageView.m
+END
+FSTableAssistantView.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableAssistantView.m
+END
+FSIndicatorMessageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSIndicatorMessageView.m
+END
+FSNewSettingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11798/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSNewSettingView.h
+END
+FSTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableViewCell.h
+END
+FSBaseRotateView.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSBaseRotateView.h
+END
+FSTableContainerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableContainerView.h
+END
+FSInformationMessageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSInformationMessageView.h
+END
+FSTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableViewCell.m
+END
+FSNewSettingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11798/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSNewSettingView.m
+END
+FSScrollPageContainerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSScrollPageContainerView.h
+END
+FSBaseRotateView.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSBaseRotateView.m
+END
+FSTableContainerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTableContainerView.m
+END
+FSInformationMessageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSInformationMessageView.m
+END
+FSTabBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSTabBar.h
+END
+FSScrollPageContainerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/View/FSScrollPageContainerView.m
+END

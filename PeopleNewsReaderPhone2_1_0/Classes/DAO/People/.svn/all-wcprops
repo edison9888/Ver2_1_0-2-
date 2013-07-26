@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People
+END
+FSOneDayNewsListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSOneDayNewsListDAO.m
+END
+FSDeepPictureDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepPictureDAO.m
+END
+FSTopicListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicListDAO.m
+END
+FSChanelListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSChanelListDAO.h
+END
+FSDeepInvestigatePOSTDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepInvestigatePOSTDAO.h
+END
+FSWeatherNewsListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSWeatherNewsListDAO.h
+END
+FSTopicSubjectListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicSubjectListDAO.h
+END
+FSChanelListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSChanelListDAO.m
+END
+FSDeepInvestigatePOSTDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepInvestigatePOSTDAO.m
+END
+FSTopicSubjectTitleContentDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicSubjectTitleContentDAO.h
+END
+FSWeatherNewsListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSWeatherNewsListDAO.m
+END
+FSTopicListTimestampDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicListTimestampDAO.h
+END
+FSTopicSubjectListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicSubjectListDAO.m
+END
+FSForChannelSettingFocusTopDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSForChannelSettingFocusTopDAO.h
+END
+FSTopicSubjectTitleContentDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicSubjectTitleContentDAO.m
+END
+FSForNewsListFocusTopDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSForNewsListFocusTopDAO.h
+END
+FSTopicAbstractDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicAbstractDAO.h
+END
+FSTopicListTimestampDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicListTimestampDAO.m
+END
+FSCityListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSCityListDAO.h
+END
+FSForChannelSettingFocusTopDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSForChannelSettingFocusTopDAO.m
+END
+FSDeepPageListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepPageListDAO.h
+END
+FSForNewsListFocusTopDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSForNewsListFocusTopDAO.m
+END
+FSTopicAbstractDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicAbstractDAO.m
+END
+FSNewsListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSNewsListDAO.h
+END
+FSCityListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSCityListDAO.m
+END
+FS_GZF_CityListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FS_GZF_CityListDAO.h
+END
+FSDeepWriteCommentDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepWriteCommentDAO.h
+END
+FSDeepPageListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepPageListDAO.m
+END
+FSNewsListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSNewsListDAO.m
+END
+FS_GZF_CityListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FS_GZF_CityListDAO.m
+END
+FSDeepWriteCommentDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepWriteCommentDAO.m
+END
+FSDeepInvestigateDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepInvestigateDAO.h
+END
+FSOneDayChannelSelectedDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSOneDayChannelSelectedDAO.h
+END
+FSDeepTextDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepTextDAO.h
+END
+FSDeepPriorListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepPriorListDAO.h
+END
+FSDeepInvestigateDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepInvestigateDAO.m
+END
+FSOneDayChannelSelectedDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSOneDayChannelSelectedDAO.m
+END
+FSUpdateNetworkFlagDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSUpdateNetworkFlagDAO.h
+END
+FSDeepTextDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepTextDAO.m
+END
+FSDeepPriorDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepPriorDAO.h
+END
+FSDeepPriorListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepPriorListDAO.m
+END
+FSUpdateNetworkFlagDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSUpdateNetworkFlagDAO.m
+END
+FSDeepOuterDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepOuterDAO.h
+END
+FSTopicSubjectTitleListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicSubjectTitleListDAO.h
+END
+FSDeepPriorDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepPriorDAO.m
+END
+FSDeepCommentDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepCommentDAO.h
+END
+FSDeepOuterDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepOuterDAO.m
+END
+FSTopicSubjectTitleListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicSubjectTitleListDAO.m
+END
+FSFocusTopDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSFocusTopDAO.h
+END
+FSForOneDayNewsListFocusTopDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSForOneDayNewsListFocusTopDAO.h
+END
+FSDeepLeadDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepLeadDAO.h
+END
+FSDeepEndDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepEndDAO.h
+END
+FSDeepCommentDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepCommentDAO.m
+END
+FSDeepOuterLinkListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepOuterLinkListDAO.h
+END
+FSFocusTopDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSFocusTopDAO.m
+END
+FSForOneDayNewsListFocusTopDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSForOneDayNewsListFocusTopDAO.m
+END
+FSDeepLeadDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepLeadDAO.m
+END
+FSOneDayNewsListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSOneDayNewsListDAO.h
+END
+FSDeepPictureDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepPictureDAO.h
+END
+FSDeepEndDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepEndDAO.m
+END
+FSTopicListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSTopicListDAO.h
+END
+FSDeepOuterLinkListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/People/FSDeepOuterLinkListDAO.m
+END

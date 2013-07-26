@@ -1,0 +1,26 @@
+//
+//  FSNetworkDataLocalStore.h
+//  PeopleDailyReader
+//
+//  Created by people.com.cn on 12-3-13.
+//  Copyright 2012 people.com.cn. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import "FSNetworkData.h"
+
+#define FSNETWORKDATALOCALSTORE_DOWNLOAD_COMPLETE_NOTIFICATION @"FSNETWORKDATALOCALSTORE_DOWNLOAD_COMPLETE_NOTIFICATION_STRING"
+#define FSNETWORKDATALOCALSTORE_DOWNLOAD_COMPLETE_URL_KEY @"FSNETWORKDATALOCALSTORE_DOWNLOAD_COMPLETE_URL_KEY"
+#define FSNETWORKDATALOCALSTORE_DOWNLOAD_COMPLETE_FULLPATH_KEY @"FSNETWORKDATALOCALSTORE_DOWNLOAD_COMPLETE_FULLPATH_KEY"
+
+#define FSNETWORKDATALOCALSTORE_DOWNLOAD_ERROR_NOTIFICATION @"FSNETWORKDATALOCALSTORE_DOWNLOAD_ERROR_NOTIFICATION_STRING"
+
+@interface FSNetworkDataLocalStore : FSNetworkData {
+@private
+	NSString *_localStoreFilePath;
+}
+
+@property (nonatomic, retain) NSString *localStoreFilePath;
+
+@end
+

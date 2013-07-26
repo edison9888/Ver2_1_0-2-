@@ -1,0 +1,25 @@
+//
+// Prefix header for all source files of the 'PeopleNewsReaderPhone' target in the 'PeopleNewsReaderPhone' project
+//
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import <CoreData/CoreData.h>
+#endif
+
+#ifdef MYDEBUG
+#define FSLog(fmt, ...) NSLog((@"[%s] %s [Line %d] " fmt), __FILE__, __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+//#define FSLog(fmt, ...) NSLog((@"[%s] %s [Line %d] " fmt), __FILE__, __FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+#define FSLog(...)
+#endif
+
+#define ISIPHONE5   ([UIScreen mainScreen].bounds.size.height - 480 > 10?1:0)
+

@@ -1,0 +1,605 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mobile/!svn/ver/11798/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People
+END
+FSMoreViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSMoreViewController.h
+END
+FSCommentListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSCommentListViewController.m
+END
+FSALLSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSALLSettingViewController.h
+END
+FSMoreViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSMoreViewController.m
+END
+FSMyFavoritesViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSMyFavoritesViewController.h
+END
+FSDeepPictureVeiwController.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepPictureVeiwController.h
+END
+FSNewsTextFontSettingController.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSNewsTextFontSettingController.h
+END
+FSNetEaseBlogShareViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSNetEaseBlogShareViewController.h
+END
+FSALLSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSALLSettingViewController.m
+END
+FSNewsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSNewsViewController.h
+END
+NTESNBToast.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/NTESNBToast.h
+END
+FSMyFavoritesViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSMyFavoritesViewController.m
+END
+FSChannelListForNewsController.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSChannelListForNewsController.h
+END
+FSDeepPictureVeiwController.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepPictureVeiwController.m
+END
+FSNewsContainerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSNewsContainerViewController.h
+END
+NTESNBSMSManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/NTESNBSMSManager.h
+END
+FSNewsTextFontSettingController.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSNewsTextFontSettingController.m
+END
+FSNetEaseBlogShareViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSNetEaseBlogShareViewController.m
+END
+FSDeepInvestigateViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepInvestigateViewController.h
+END
+FSLocalNewsCityListController.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSLocalNewsCityListController.h
+END
+FSNewsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSNewsViewController.m
+END
+NTESNBToast.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/NTESNBToast.m
+END
+FSDeepPageContainerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepPageContainerController.h
+END
+FSChannelListForNewsController.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSChannelListForNewsController.m
+END
+FSRootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSRootViewController.h
+END
+FSNewsContainerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSNewsContainerViewController.m
+END
+FSFeedbackViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSFeedbackViewController.h
+END
+NTESNBSMSManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/NTESNBSMSManager.m
+END
+FSDeepInvestigateViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepInvestigateViewController.m
+END
+FSLocalNewsCityListController.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSLocalNewsCityListController.m
+END
+FSDeepPageContainerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepPageContainerController.m
+END
+FSRootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSRootViewController.m
+END
+FSFeedbackViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSFeedbackViewController.m
+END
+FSAppStoreViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSAppStoreViewController.h
+END
+FSAppStoreViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSAppStoreViewController.m
+END
+FSNetEaseBlogShareLoginViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSNetEaseBlogShareLoginViewController.h
+END
+FSDeepEndViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepEndViewController.h
+END
+FSBaseSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSBaseSettingViewController.h
+END
+FSNetEaseBlogShareLoginViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSNetEaseBlogShareLoginViewController.m
+END
+FSDeepEndViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepEndViewController.m
+END
+FSTopicListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSTopicListViewController.h
+END
+FSPeopleBlogShareViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSPeopleBlogShareViewController.h
+END
+FSBaseSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSBaseSettingViewController.m
+END
+FSChannelSettingForOneDayViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSChannelSettingForOneDayViewController.h
+END
+FSSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mobile/!svn/ver/11798/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSSettingViewController.h
+END
+FSTopicListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSTopicListViewController.m
+END
+FSPeopleBlogShareViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSPeopleBlogShareViewController.m
+END
+FSChannelSettingForOneDayViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSChannelSettingForOneDayViewController.m
+END
+FSSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mobile/!svn/ver/11798/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSSettingViewController.m
+END
+FSShareIconContainView.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSShareIconContainView.h
+END
+FSShareIconContainView.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSShareIconContainView.m
+END
+FSDeepPriorViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepPriorViewController.h
+END
+FSShareNoticView.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSShareNoticView.h
+END
+FSMoreAPPRecommendViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSMoreAPPRecommendViewController.h
+END
+FSDeepPriorViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepPriorViewController.m
+END
+FSWeatherViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSWeatherViewController.h
+END
+FSShareNoticView.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSShareNoticView.m
+END
+FSMoreAPPRecommendViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSMoreAPPRecommendViewController.m
+END
+FSDeepLeadViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepLeadViewController.h
+END
+FSPeopleBlogShareLoginViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSPeopleBlogShareLoginViewController.h
+END
+FSWeatherViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSWeatherViewController.m
+END
+NTESNBShortUrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/NTESNBShortUrl.h
+END
+FSDeepBaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepBaseViewController.h
+END
+FSDeepLeadViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepLeadViewController.m
+END
+FSPeopleBlogShareLoginViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSPeopleBlogShareLoginViewController.m
+END
+NTESNBShortUrl.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/NTESNBShortUrl.m
+END
+FSAboutViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSAboutViewController.h
+END
+FSDeepBaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepBaseViewController.m
+END
+FSAboutViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSAboutViewController.m
+END
+FSLanguageSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSLanguageSettingViewController.h
+END
+FSSinaBlogShareViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSSinaBlogShareViewController.h
+END
+FSDeepTextViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepTextViewController.h
+END
+FSWebViewForOpenURLViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSWebViewForOpenURLViewController.h
+END
+FSLanguageSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSLanguageSettingViewController.m
+END
+FSSinaBlogShareViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSSinaBlogShareViewController.m
+END
+FSDeepTextViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepTextViewController.m
+END
+FSSinaBlogLoginViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSSinaBlogLoginViewController.h
+END
+FSWebViewForOpenURLViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSWebViewForOpenURLViewController.m
+END
+FSSinaBlogLoginViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSSinaBlogLoginViewController.m
+END
+FSBaseShareViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSBaseShareViewController.h
+END
+FSAuthorizationViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSAuthorizationViewController.h
+END
+FSDeepCommentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepCommentViewController.h
+END
+FSBaseShareViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSBaseShareViewController.m
+END
+FSBaseLoginViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSBaseLoginViewController.h
+END
+FSAuthorizationViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSAuthorizationViewController.m
+END
+FSDeepCommentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepCommentViewController.m
+END
+FSBaseLoginViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSBaseLoginViewController.m
+END
+NTESNBActivityView.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/NTESNBActivityView.h
+END
+FSLocalWeatherViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSLocalWeatherViewController.h
+END
+FSDeepOuterLinkViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepOuterLinkViewController.h
+END
+FSOneDayNewsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSOneDayNewsViewController.h
+END
+FSTopicViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSTopicViewController.h
+END
+NTESNBActivityView.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/NTESNBActivityView.m
+END
+FSLocalWeatherViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSLocalWeatherViewController.m
+END
+FSDeepOuterLinkViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSDeepOuterLinkViewController.m
+END
+FSBasePeopleViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSBasePeopleViewController.h
+END
+FSOneDayNewsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSOneDayNewsViewController.m
+END
+FSTopicViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSTopicViewController.m
+END
+FSBasePeopleViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/mobile/!svn/ver/11798/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSBasePeopleViewController.m
+END
+FSCommentListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/People/FSCommentListViewController.h
+END

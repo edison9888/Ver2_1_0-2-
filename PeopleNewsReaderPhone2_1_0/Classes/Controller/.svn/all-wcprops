@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mobile/!svn/ver/11798/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller
+END
+FSUINavigationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSUINavigationController.h
+END
+FSDAOCallbackViewObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSDAOCallbackViewObject.h
+END
+FSBaseDataViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSBaseDataViewController.h
+END
+FSSlideViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSSlideViewController.m
+END
+FSUINavigationController.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSUINavigationController.m
+END
+FSDAOCallbackViewObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSDAOCallbackViewObject.m
+END
+FSControllerLayoutObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSControllerLayoutObject.h
+END
+FSBaseDataViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSBaseDataViewController.m
+END
+FSContentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSContentViewController.h
+END
+FSBaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSBaseViewController.h
+END
+FSPictureShowViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSPictureShowViewController.h
+END
+FSPageControlViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSPageControlViewController.h
+END
+FSControllerLayoutObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSControllerLayoutObject.m
+END
+FSContentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSContentViewController.m
+END
+FSBaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSBaseViewController.m
+END
+FSPictureShowViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSPictureShowViewController.m
+END
+FSPageControlViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSPageControlViewController.m
+END
+FSControllerLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSControllerLayout.h
+END
+FSRootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSRootViewController.h
+END
+FSBaseModalViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSBaseModalViewController.h
+END
+FSRootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSRootViewController.m
+END
+LygCustomerNaviBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11794/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/LygCustomerNaviBar.h
+END
+FSTabBarViewCotnroller.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSTabBarViewCotnroller.h
+END
+FSBaseModalViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSBaseModalViewController.m
+END
+LygCustomerNaviBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11794/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/LygCustomerNaviBar.m
+END
+FSSlideViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSSlideViewController.h
+END
+FSTabBarViewCotnroller.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/Controller/FSTabBarViewCotnroller.m
+END

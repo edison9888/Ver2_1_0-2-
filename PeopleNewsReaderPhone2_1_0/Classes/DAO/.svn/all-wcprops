@@ -1,0 +1,845 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mobile/!svn/ver/11798/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO
+END
+FSXMLParserObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSXMLParserObject.h
+END
+FS_GZF_ForNewsListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ForNewsListDAO.h
+END
+FSXMLParserObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSXMLParserObject.m
+END
+FS_GZF_ForNewsListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ForNewsListDAO.m
+END
+FS_GZF_BaseNetworkDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseNetworkDAO.h
+END
+FS_GZF_BaseNetworkDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseNetworkDAO.m
+END
+FSBaseGETJSONDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETJSONDAO.h
+END
+FSBaseGETJSONDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETJSONDAO.m
+END
+FS_GZF_DeepPageListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepPageListDAO.h
+END
+FS_GZT_BaceGETDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZT_BaceGETDAO.h
+END
+FSGetDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetDAO.h
+END
+FS_GZF_DeepPageListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepPageListDAO.m
+END
+FS_GZT_BaceGETDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZT_BaceGETDAO.m
+END
+FS_GZF_NewsContainerDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_NewsContainerDAO.h
+END
+FSGetDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetDAO.m
+END
+FS_GZF_BaseGETXMLDataListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseGETXMLDataListDAO.h
+END
+FS_GZF_DeepTextDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepTextDAO.h
+END
+FS_GZF_AppUpdateDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_AppUpdateDAO.h
+END
+FS_GZF_NewsContainerDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_NewsContainerDAO.m
+END
+FS_GZF_BaseGETXMLDataListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseGETXMLDataListDAO.m
+END
+FS_GZF_DeepTextDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepTextDAO.m
+END
+FS_GZF_AppUpdateDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_AppUpdateDAO.m
+END
+FSBaseGETXMLSingleDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETXMLSingleDAO.h
+END
+FSStoreObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSStoreObject.h
+END
+FSBaseGETXMLListEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETXMLListEx.h
+END
+FSBaseGETXMLSingleDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETXMLSingleDAO.m
+END
+FSStoreObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSStoreObject.m
+END
+FSBaseGETXMLListEx.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETXMLListEx.m
+END
+FS_GZF_BasePOSTXMLDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BasePOSTXMLDAO.h
+END
+FSReadFromStoreInCoreDataObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSReadFromStoreInCoreDataObject.h
+END
+FSBaseGETDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETDAO.h
+END
+FS_GZF_ForOnedayNewsFocusTopDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ForOnedayNewsFocusTopDAO.h
+END
+FS_GZF_BasePOSTXMLDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BasePOSTXMLDAO.m
+END
+FSReadFromStoreInCoreDataObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSReadFromStoreInCoreDataObject.m
+END
+FSBaseGETDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETDAO.m
+END
+FS_GZF_ForOnedayNewsFocusTopDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ForOnedayNewsFocusTopDAO.m
+END
+FSPostDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSPostDAO.h
+END
+FSPostDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSPostDAO.m
+END
+FS_GZF_NewsCommentPOSTXMLDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_NewsCommentPOSTXMLDAO.h
+END
+FS_GZF_NewsCommentPOSTXMLDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_NewsCommentPOSTXMLDAO.m
+END
+FSCheckAppStoreVersionDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSCheckAppStoreVersionDAO.h
+END
+FSCheckAppStoreVersionObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSCheckAppStoreVersionObject.h
+END
+FSCheckAppStoreVersionDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSCheckAppStoreVersionDAO.m
+END
+FS_GZF_PeopleBlogSharePOSTXMLDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_PeopleBlogSharePOSTXMLDAO.h
+END
+FSCheckAppStoreVersionObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSCheckAppStoreVersionObject.m
+END
+FS_GZF_PeopleBlogSharePOSTXMLDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_PeopleBlogSharePOSTXMLDAO.m
+END
+FS_GZF_PushTokenPOSTXMLDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_PushTokenPOSTXMLDAO.h
+END
+FSOfflineDownloadObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSOfflineDownloadObject.h
+END
+FS_GZF_AppRecommendDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_AppRecommendDAO.h
+END
+FSGetSingleDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetSingleDAO.h
+END
+FS_GZF_PushTokenPOSTXMLDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_PushTokenPOSTXMLDAO.m
+END
+FSOfflineDownloadObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSOfflineDownloadObject.m
+END
+FS_GZF_ForOneDayNewsListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ForOneDayNewsListDAO.h
+END
+FSBaseNetworkDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseNetworkDAO.h
+END
+FSBaseGETXMLListExDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETXMLListExDAO.h
+END
+FS_GZF_AppRecommendDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_AppRecommendDAO.m
+END
+FSGetSingleDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetSingleDAO.m
+END
+FS_GZF_ForOneDayNewsListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ForOneDayNewsListDAO.m
+END
+FSBaseNetworkDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseNetworkDAO.m
+END
+FSBaseGETXMLListExDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETXMLListExDAO.m
+END
+FSStoreInCoreDataObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSStoreInCoreDataObject.h
+END
+FSXMLParserStoreObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSXMLParserStoreObject.h
+END
+FSStoreInCoreDataObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSStoreInCoreDataObject.m
+END
+FS_GZF_ForLocalNewsListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ForLocalNewsListDAO.h
+END
+FSDataTimestampObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSDataTimestampObject.h
+END
+FSXMLParserStoreObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSXMLParserStoreObject.m
+END
+FS_GZF_ForLocalNewsListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ForLocalNewsListDAO.m
+END
+FSDataTimestampObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSDataTimestampObject.m
+END
+FS_GZF_StatisticePOSTXMLDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_StatisticePOSTXMLDAO.h
+END
+FS_GZF_ChannelListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ChannelListDAO.h
+END
+FSBaseDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseDAO.h
+END
+FS_GZF_StatisticePOSTXMLDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_StatisticePOSTXMLDAO.m
+END
+FS_GZF_ChannelListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ChannelListDAO.m
+END
+FSBaseDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseDAO.m
+END
+FS_GZF_GetNewsDataForOFFlineDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_GetNewsDataForOFFlineDAO.h
+END
+FS_GZF_DeepInvestigateDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepInvestigateDAO.h
+END
+FS_GZF_BaseGETForOFFlineDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseGETForOFFlineDAO.h
+END
+FSNetworkDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSNetworkDAO.h
+END
+FS_GZF_GetNewsDataForOFFlineDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_GetNewsDataForOFFlineDAO.m
+END
+FS_GZF_DeepInvestigateDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepInvestigateDAO.m
+END
+FS_GZF_ForLoadingImageDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11798/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ForLoadingImageDAO.h
+END
+FSLastUpdateTimestampObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSLastUpdateTimestampObject.h
+END
+FS_GZF_DeepPriorDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepPriorDAO.h
+END
+FS_GZF_BaseGETForOFFlineDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseGETForOFFlineDAO.m
+END
+FSNetworkDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSNetworkDAO.m
+END
+FS_GZF_ForLoadingImageDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11798/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_ForLoadingImageDAO.m
+END
+FSBasePOSTXMLDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBasePOSTXMLDAO.h
+END
+FSLastUpdateTimestampObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSLastUpdateTimestampObject.m
+END
+FS_GZF_DeepPriorDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepPriorDAO.m
+END
+FSBasePOSTXMLDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBasePOSTXMLDAO.m
+END
+FS_GZF_TimestampDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_TimestampDAO.h
+END
+FS_GZF_GetWeatherMessageDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_GetWeatherMessageDAO.h
+END
+FS_GZF_DeepEndDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepEndDAO.h
+END
+FS_GZF_DeepOuterLinkListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepOuterLinkListDAO.h
+END
+FS_GZF_TimestampDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_TimestampDAO.m
+END
+FS_GZF_GetWeatherMessageDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_GetWeatherMessageDAO.m
+END
+FS_GZF_DeepPictureDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepPictureDAO.h
+END
+FS_GZF_DeepEndDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepEndDAO.m
+END
+FS_GZF_DeepOuterLinkListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepOuterLinkListDAO.m
+END
+FSBasePOSTDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBasePOSTDAO.h
+END
+FS_GZF_DeepPictureDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepPictureDAO.m
+END
+FSBasePOSTDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBasePOSTDAO.m
+END
+FSBaseGETXMLListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETXMLListDAO.h
+END
+FSBaseGETXMLListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETXMLListDAO.m
+END
+FSGetXMLDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetXMLDAO.h
+END
+FSGetXMLSingleDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetXMLSingleDAO.h
+END
+FS_GZF_CommentListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_CommentListDAO.h
+END
+FSGetXMLDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetXMLDAO.m
+END
+FS_GZF_BaseGETDitailDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseGETDitailDAO.h
+END
+FSGetXMLSingleDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetXMLSingleDAO.m
+END
+FS_GZF_DeepLeadDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepLeadDAO.h
+END
+FS_GZF_CommentListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_CommentListDAO.m
+END
+FS_GZF_BaseGETDitailDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseGETDitailDAO.m
+END
+FSBaseXMLParserObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseXMLParserObject.h
+END
+FS_GZF_DeepLeadDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepLeadDAO.m
+END
+FS_GZF_BaseDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseDAO.h
+END
+FSBaseXMLParserObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseXMLParserObject.m
+END
+FS_GZF_BaseDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseDAO.m
+END
+FS_GZF_DeepPriorListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepPriorListDAO.h
+END
+FS_GZF_DeepPriorListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepPriorListDAO.m
+END
+FS_GZF_DeepCommentDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepCommentDAO.h
+END
+FS_GZF_DeepCommentDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepCommentDAO.m
+END
+FSGetListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetListDAO.h
+END
+FS_GZF_PeopleBlogLoginPOSTXMLDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_PeopleBlogLoginPOSTXMLDAO.h
+END
+FS_GZF_DeepListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepListDAO.h
+END
+FS_GZF_DeepOuterLinkDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepOuterLinkDAO.h
+END
+FSGetListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetListDAO.m
+END
+FS_GZF_FeedbackPOSTXMLDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_FeedbackPOSTXMLDAO.h
+END
+FS_GZF_PeopleBlogLoginPOSTXMLDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_PeopleBlogLoginPOSTXMLDAO.m
+END
+FS_GZF_DeepListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepListDAO.m
+END
+FS_GZF_DeepOuterLinkDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_DeepOuterLinkDAO.m
+END
+FS_GZF_FeedbackPOSTXMLDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_FeedbackPOSTXMLDAO.m
+END
+FSGetXMLListExDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetXMLListExDAO.h
+END
+FSBaseGETXMLDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETXMLDAO.h
+END
+FSGetXMLListDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetXMLListDAO.h
+END
+FSGetXMLListExDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetXMLListExDAO.m
+END
+FS_GZF_BaseGETXMLDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseGETXMLDAO.h
+END
+FSBaseGETXMLDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSBaseGETXMLDAO.m
+END
+FSGetXMLListDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FSGetXMLListDAO.m
+END
+FS_GZF_BaseGETXMLDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mobile/!svn/ver/11766/PeopleNewsReader/iPhoneVersion/Ver2_1_0/PeopleNewsReaderPhone2_1_0/Classes/DAO/FS_GZF_BaseGETXMLDAO.m
+END
